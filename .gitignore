@@ -1,4 +1,5 @@
 # Created by https://www.gitignore.io/api/unity
+# Modified by Sujoy Ghosh
 
 ### Unity ###
 /[Ll]ibrary/
@@ -58,6 +59,7 @@ sysinfo.txt
 
 # Raw project files
 *.afdesign
+*.afdesign.meta
 
 # Crashlytics generated file	
 crashlytics-build.properties
