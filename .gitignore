@@ -57,7 +57,7 @@ sysinfo.txt
 *.apk
 *.unitypackage
 
-# Raw project files
+# Affinity Designer related files
 *.afdesign
 *.afdesign.meta
 
