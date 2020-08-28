@@ -61,6 +61,10 @@ sysinfo.txt
 *.afdesign
 *.afdesign.meta
 
+# Test folders and files
+/Assets/Test/
+*Test.meta
+
 # Crashlytics generated file	
 crashlytics-build.properties
 # ============ #
